@@ -1,0 +1,15 @@
+C:\Users\Leonardo\Desktop\C#\EntradaSalida\bin\Debug\net6.0\EntradaSalida.exe
+C:\Users\Leonardo\Desktop\C#\EntradaSalida\bin\Debug\net6.0\EntradaSalida.deps.json
+C:\Users\Leonardo\Desktop\C#\EntradaSalida\bin\Debug\net6.0\EntradaSalida.runtimeconfig.json
+C:\Users\Leonardo\Desktop\C#\EntradaSalida\bin\Debug\net6.0\EntradaSalida.dll
+C:\Users\Leonardo\Desktop\C#\EntradaSalida\bin\Debug\net6.0\EntradaSalida.pdb
+C:\Users\Leonardo\Desktop\C#\EntradaSalida\obj\Debug\net6.0\EntradaSalida.csproj.AssemblyReference.cache
+C:\Users\Leonardo\Desktop\C#\EntradaSalida\obj\Debug\net6.0\EntradaSalida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Desktop\C#\EntradaSalida\obj\Debug\net6.0\EntradaSalida.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\C#\EntradaSalida\obj\Debug\net6.0\EntradaSalida.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\C#\EntradaSalida\obj\Debug\net6.0\EntradaSalida.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\C#\EntradaSalida\obj\Debug\net6.0\EntradaSalida.dll
+C:\Users\Leonardo\Desktop\C#\EntradaSalida\obj\Debug\net6.0\refint\EntradaSalida.dll
+C:\Users\Leonardo\Desktop\C#\EntradaSalida\obj\Debug\net6.0\EntradaSalida.pdb
+C:\Users\Leonardo\Desktop\C#\EntradaSalida\obj\Debug\net6.0\EntradaSalida.genruntimeconfig.cache
+C:\Users\Leonardo\Desktop\C#\EntradaSalida\obj\Debug\net6.0\ref\EntradaSalida.dll

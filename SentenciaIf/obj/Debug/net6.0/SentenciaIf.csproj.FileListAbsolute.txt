@@ -1,0 +1,15 @@
+C:\Users\Leonardo\Desktop\C#\SentenciaIf\bin\Debug\net6.0\SentenciaIf.exe
+C:\Users\Leonardo\Desktop\C#\SentenciaIf\bin\Debug\net6.0\SentenciaIf.deps.json
+C:\Users\Leonardo\Desktop\C#\SentenciaIf\bin\Debug\net6.0\SentenciaIf.runtimeconfig.json
+C:\Users\Leonardo\Desktop\C#\SentenciaIf\bin\Debug\net6.0\SentenciaIf.dll
+C:\Users\Leonardo\Desktop\C#\SentenciaIf\bin\Debug\net6.0\SentenciaIf.pdb
+C:\Users\Leonardo\Desktop\C#\SentenciaIf\obj\Debug\net6.0\SentenciaIf.csproj.AssemblyReference.cache
+C:\Users\Leonardo\Desktop\C#\SentenciaIf\obj\Debug\net6.0\SentenciaIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Desktop\C#\SentenciaIf\obj\Debug\net6.0\SentenciaIf.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\C#\SentenciaIf\obj\Debug\net6.0\SentenciaIf.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\C#\SentenciaIf\obj\Debug\net6.0\SentenciaIf.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\C#\SentenciaIf\obj\Debug\net6.0\SentenciaIf.dll
+C:\Users\Leonardo\Desktop\C#\SentenciaIf\obj\Debug\net6.0\refint\SentenciaIf.dll
+C:\Users\Leonardo\Desktop\C#\SentenciaIf\obj\Debug\net6.0\SentenciaIf.pdb
+C:\Users\Leonardo\Desktop\C#\SentenciaIf\obj\Debug\net6.0\SentenciaIf.genruntimeconfig.cache
+C:\Users\Leonardo\Desktop\C#\SentenciaIf\obj\Debug\net6.0\ref\SentenciaIf.dll

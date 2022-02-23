@@ -1,0 +1,5 @@
+C:\Users\Leonardo\Desktop\C#\SentenciaUsing\obj\Debug\net6.0\SentenciaUsing.csproj.AssemblyReference.cache
+C:\Users\Leonardo\Desktop\C#\SentenciaUsing\obj\Debug\net6.0\SentenciaUsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Desktop\C#\SentenciaUsing\obj\Debug\net6.0\SentenciaUsing.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\C#\SentenciaUsing\obj\Debug\net6.0\SentenciaUsing.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\C#\SentenciaUsing\obj\Debug\net6.0\SentenciaUsing.csproj.CoreCompileInputs.cache
